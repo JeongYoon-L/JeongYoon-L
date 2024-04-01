@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I love solving problem that occur in every nature.
 - :student: I studied `Computer Science` and `Applied Mathematics and Statistics` at [Stony Brook University](https://www.stonybrook.edu/), achieved Bachelor's degree 2022 winter.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `2024 Summer Internship opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1cw4k_OnJWaXGwkirRJCIg01qHY7K6STS/view?usp=sharing).
+- :thinking: I’m currently open for a new `2024 Summer Internship opportunity`, please reach out to me : jeongyoonlee2024@u.northwestern.edu
 - :boom: You can visit [MY WEBSITE](https://jeongyoon-l.github.io/).
 - :sparkles: Playing guitar, singing songs and taking pictures in my free time! [My Tiny Channel](https://www.youtube.com/@yooni4623)
 <br>
